@@ -27,9 +27,12 @@ public class MainActivity extends AppCompatActivity {
     private String[] drawing = {"drums", "flower", "laptop", "anvil", "baseball_bat",
             "ladder", "pizza", "grapes", "book", "dumbbell", "traffic_light", "wristwatch",
             "wheel", "shovel", "bread", "table", "tennis_racquet", "syringe", "chair", "candle", "face", "spider", "airplane", "donut",
-            "lollipop", "power_outlet", "pants", "mushroom", "star", "sword", "clock", "hot_dog", "cloud", "stop_sign", "mountain", "smiley_face",
+            "helmet", "power_outlet", "pants", "mushroom", "stop_sign", "sword", "clock", "hot_dog", "cloud", "star", "mountain", "smiley_face",
             "hat", "bed", "shorts", "broom", "diving_board", "umbrella", "eye", "cell_phone", "car", "camera", "tree", "square", "key",
-            "radio", "apple", "eyeglasses", "axe", "door", "tent", "envelope", "line", "cup", "fan", "triangle", "basketball", "butterfly", "scissors", "t-shirt", "tooth", "sun", "paper_clip", "spoon", "microphone", "headphones", "pencil", "alarm_clock", "saw", "frying_pan", "screwdriver", "helmet", "bridge", "light_bulb", "ceiling_fan", "moon", "snake", "bird", "circle", "beard", "coffee_cup", "pillow", "bench", "rifle", "cat", "sock", "ice_cream", "moustache", "suitcase", "hammer", "rainbow", "knife", "cookie", "baseball", "lightning", "bicycle"};
+            "radio", "apple", "eyeglasses", "axe", "door", "tent", "envelope", "line", "cup", "fan", "triangle", "basketball", "butterfly",
+            "scissors", "t-shirt", "tooth", "sun", "paper_clip", "spoon", "microphone", "headphones", "pencil", "alarm_clock", "saw", "frying_pan",
+            "screwdriver", "lollipop", "bridge", "light_bulb", "ceiling_fan", "moon", "snake", "bird", "circle", "beard", "coffee_cup", "pillow", "bench",
+            "rifle", "cat", "sock", "ice_cream", "moustache", "suitcase", "hammer", "rainbow", "knife", "cookie", "baseball", "lightning", "bicycle"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
