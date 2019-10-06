@@ -26,7 +26,10 @@ public class MainActivity extends AppCompatActivity {
     private Classifier mClassifier;
     private String[] drawing = {"drums", "flower", "laptop", "anvil", "baseball_bat",
             "ladder", "pizza", "grapes", "book", "dumbbell", "traffic_light", "wristwatch",
-            "wheel", "shovel", "bread", "table", "tennis_racquet", "cloud", "chair", "candle", "face", "eye", "airplane", "donut", "lollipop", "power_outlet", "pants", "mushroom", "star", "sword", "clock", "hot_dog", "syringe", "stop_sign", "mountain", "smiley_face", "apple", "bed", "shorts", "broom", "diving_board", "umbrella", "spider", "cell_phone", "car", "camera", "tree", "square", "key", "radio", "hat", "eyeglasses", "axe", "door", "tent", "envelope", "line", "cup", "fan", "triangle", "basketball", "butterfly", "scissors", "t-shirt", "tooth", "sun", "paper_clip", "spoon", "microphone", "headphones", "pencil", "alarm_clock", "saw", "frying_pan", "screwdriver", "helmet", "bridge", "light_bulb", "ceiling_fan", "moon", "snake", "bird", "circle", "beard", "coffee_cup", "pillow", "bench", "rifle", "cat", "sock", "ice_cream", "moustache", "suitcase", "hammer", "rainbow", "knife", "cookie", "baseball", "lightning", "bicycle"};
+            "wheel", "shovel", "bread", "table", "tennis_racquet", "syringe", "chair", "candle", "face", "spider", "airplane", "donut",
+            "lollipop", "power_outlet", "pants", "mushroom", "star", "sword", "clock", "hot_dog", "cloud", "stop_sign", "mountain", "smiley_face",
+            "hat", "bed", "shorts", "broom", "diving_board", "umbrella", "eye", "cell_phone", "car", "camera", "tree", "square", "key",
+            "radio", "apple", "eyeglasses", "axe", "door", "tent", "envelope", "line", "cup", "fan", "triangle", "basketball", "butterfly", "scissors", "t-shirt", "tooth", "sun", "paper_clip", "spoon", "microphone", "headphones", "pencil", "alarm_clock", "saw", "frying_pan", "screwdriver", "helmet", "bridge", "light_bulb", "ceiling_fan", "moon", "snake", "bird", "circle", "beard", "coffee_cup", "pillow", "bench", "rifle", "cat", "sock", "ice_cream", "moustache", "suitcase", "hammer", "rainbow", "knife", "cookie", "baseball", "lightning", "bicycle"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
